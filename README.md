@@ -1,8 +1,15 @@
-# React + Vite
+# Library Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Library Management System that allows users to create and manage books and authors. It is built using REACT for the frontend, EXPRESSJS for the backend, Formik for form handling, and BOOTSTRAP for styling.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Create and Manage Books**: Add new books with details like title, author, and genre.
+- **Create and Manage Authors**: Add new authors with details like name and biography.
+- **User-Friendly Interface**: Provides a simple and intuitive interface for managing library resources.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Formik**: A library for building and handling forms in React.
+- **Bootstrap**: A CSS framework for designing responsive and modern web applications.
